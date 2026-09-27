@@ -33,13 +33,13 @@ Bila jenis permintaan Anda tidak cocok dengan template mana pun, itu tidak masal
 
    ![Tombol New issue](gambar/M5-01-tombol-new-issue.png)
 
-3. Pilih salah satu template yang muncul, sesuai jenis permintaan Anda. Bila tidak ada template yang cocok, pilih **Open a blank issue**.
+3. Pilih salah satu template yang muncul, sesuai jenis permintaan Anda. Bila tidak ada template yang cocok, pilih **Blank issue**.
 
-   > 🔲 **Tangkapan layar belum tersedia** — *Pilihan template Issue*. Halaman pemilihan template hanya muncul untuk pengguna yang sudah masuk (login); ambil dari akun mana pun yang sudah menjadi anggota organisasi.
+   ![Pilihan template Issue](gambar/M5-02-pilihan-template.png)
 
 4. Isi **Title** dengan kalimat yang menyebutkan objek dan tindakan secara spesifik, misalnya "Perbarui tautan dokumen kebijakan data yang rusak di README", bukan sekadar "Masalah".
 5. Lengkapi kotak isi (body) sesuai pertanyaan pada template.
-6. Klik **Submit new issue**.
+6. Klik **Create**.
 
 ### 2. Memasang label
 
