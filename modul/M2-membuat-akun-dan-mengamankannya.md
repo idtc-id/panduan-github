@@ -68,12 +68,16 @@ Bila surel kode tidak kunjung muncul dalam beberapa menit, periksa folder **Spam
 ### 3. Bergabung ke organisasi idtc-id
 
 1. Kirim nama pengguna GitHub Anda kepada pengurus Pokja melalui kanal yang sudah disepakati (WhatsApp atau surel Sekretariat). Periksa ulang ejaannya sebelum mengirim.
-2. Tunggu surel undangan dari GitHub dengan judul mengenai organisasi `idtc-id`.
+2. Tunggu surel undangan dari GitHub dengan judul "has invited you to join the @idtc-id organization".
 
-   > 🔲 **Tangkapan layar belum tersedia** — *Surel undangan organisasi*. Perlu diambil dari kotak masuk surel anggota yang benar-benar diundang; samarkan alamat surel penerima sebelum digunakan di manual ini.
+   ![Surel undangan organisasi](gambar/M2-10-surel-undangan.png)
 
-3. Buka surel tersebut dan klik **View invitation**, lalu klik **Join idtc-id**.
-4. Setelah diterima, buka `github.com/idtc-id` — nama Anda kini terdaftar sebagai anggota organisasi.
+3. Klik tombol **Join @idtc-id** pada surel tersebut. Anda akan diarahkan ke halaman undangan di GitHub.
+
+   ![Halaman undangan di GitHub](gambar/M2-11-halaman-undangan.png)
+
+4. Klik **Join Indonesia Digital Twin Community** untuk menerima undangan.
+5. Setelah diterima, buka `github.com/idtc-id` — nama Anda kini terdaftar sebagai anggota organisasi.
 
 ## Latihan
 
