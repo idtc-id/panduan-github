@@ -27,7 +27,7 @@ Ketika Anda mengedit lewat browser, GitHub secara otomatis membuatkan Anda **sal
 1. Buka berkas Markdown (`.md`) yang ingin Anda ubah.
 2. Klik ikon pensil (✏️) di kanan atas tampilan berkas, bertuliskan **Edit this file**.
 
-   > 🔲 **Tangkapan layar belum tersedia** — *Ikon pensil*. Ikon ini hanya muncul untuk pengguna yang sudah masuk (login) dengan akses tulis; ambil dari akun mana pun yang sudah menjadi anggota organisasi.
+   ![Ikon pensil "Edit this file"](gambar/M6-01-ikon-pensil.png)
 
 3. Tampilan berkas berubah menjadi kotak teks yang bisa Anda ketik langsung, mirip catatan di aplikasi pengolah kata sederhana.
 
