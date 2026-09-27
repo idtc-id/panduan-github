@@ -50,11 +50,14 @@ Setiap kartu memiliki lima kolom informasi (field):
 
 ### 3. Memperbarui status kartu
 
-1. Klik salah satu kartu untuk membuka panel detailnya.
+1. Cara tercepat: **seret (drag) kartu** dari satu kolom ke kolom lain pada tampilan Papan. Misalnya, seret kartu dari kolom "Berjalan" ke kolom "Tinjauan" — field Status kartu itu otomatis berubah mengikuti kolom barunya.
 
-   > 🔲 **Tangkapan layar belum tersedia** — *Panel detail satu kartu*. Panel ini hanya terbuka lewat klik interaktif pada papan (bukan tautan langsung); ambil saat memperagakan langkah ini secara langsung.
-2. Ubah field **Status** ke nilai yang sesuai keadaan terkini, misalnya dari "Berjalan" ke "Tinjauan".
-3. Bila pekerjaan pada kartu tersebut benar-benar sudah tuntas, jangan hanya mengubah Status di papan — buka Issue aslinya (klik judul kartu) dan **tutup Issue tersebut** (lihat langkah menutup Issue di M5). Menutup Issue akan otomatis memindahkan kartunya ke Status "Selesai" di papan.
+   ![Kartu sebelum dipindah, masih di kolom Berjalan](gambar/M8-03-kartu-sebelum-dipindah.png)
+
+   ![Kartu setelah dipindah ke kolom Tinjauan](gambar/M8-04-kartu-setelah-dipindah.png)
+
+2. Untuk mengubah field lain (Tahap, Target) atau melihat detail lengkap, klik kartunya untuk membuka panel detail, lalu ubah field yang diinginkan di sana.
+3. Bila pekerjaan pada kartu tersebut benar-benar sudah tuntas, jangan hanya menyeretnya ke kolom "Selesai" — buka Issue aslinya (klik judul kartu) dan **tutup Issue tersebut** (lihat langkah menutup Issue di M5). Menutup Issue akan otomatis memindahkan kartunya ke Status "Selesai" di papan.
 
 Sebaliknya, mengubah field seperti Tahap atau Target di papan tidak memengaruhi Issue aslinya sama sekali — keduanya memang boleh diperbarui secara terpisah kapan pun diperlukan.
 
