@@ -47,12 +47,7 @@ Dek slide untuk membawakan Sesi 1 dan Sesi 2 ada di folder [`slide/`](slide/).
 Setiap modul T2 ke atas (M6–M8) sebaiknya dipraktikkan di repo sandbox
 [`latihan-github`](https://github.com/idtc-id/latihan-github), bukan di repo sungguhan.
 
-## Status
 
-**Draf pertama — belum diuji ke peserta non-teknis.** Tangkapan layar pada setiap modul masih
-berupa penanda (belum berupa gambar sungguhan) dan perlu diambil manusia sebelum pelatihan
-perdana. Lihat kriteria selesai pada rencana produksi Pokja 3 sebelum modul dianggap siap
-dipakai.
 
 ## Menyumbang perbaikan
 
