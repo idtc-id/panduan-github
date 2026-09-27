@@ -8,17 +8,17 @@ Setelah modul ini, Anda dapat:
 
 - Menyebutkan tiga alasan IDTC memakai GitHub sebagai ruang kerja bersama.
 - Menyebutkan tiga hal yang dapat Anda lakukan di GitHub tanpa kemampuan pemrograman.
-- Menemukan handbook Pokja Anda sendiri di organisasi `idtc-id`.
+- Menemukan handbook Pokja Anda sendiri di `idtc-id`.
 
-## Kenapa bukan WhatsApp dan surel saja
+## Kenapa tidak hanya di WhatsApp Group Saja?
 
-Selama ini koordinasi IDTC banyak berjalan lewat grup WhatsApp dan surel. Cara itu cepat untuk mengumumkan sesuatu, tetapi buruk untuk menyimpannya. Tiga masalah yang berulang:
+Selama ini koordinasi IDTC sangat aktif lewat grup WhatsApp. tetapi ada beberapa tantangan jika hanya menggunakan WhatsApp:
 
 1. **Versi dokumen tercecer.** Draf kebijakan bisa beredar sebagai lima lampiran berbeda di lima percakapan, dan tidak ada yang tahu mana yang paling baru.
 2. **Keputusan hilang ditelan riwayat chat.** Kesepakatan rapat sering hanya tersimpan sebagai pesan yang lewat begitu saja, sulit dicari tiga bulan kemudian.
 3. **Tidak ada jejak siapa mengubah apa.** Ketika sebuah angka di dokumen berubah, tidak ada catatan otomatis tentang siapa yang mengubahnya dan kenapa.
 
-GitHub dipilih bukan karena IDTC ingin semua anggota menjadi programmer, melainkan karena GitHub pada dasarnya adalah **lemari arsip bersama yang mencatat setiap perubahan**: siapa mengubah, apa yang diubah, dan kapan. Setiap dokumen, keputusan, dan usulan tersimpan di satu tempat yang bisa ditelusuri kembali.
+GitHub dipilih  karena GitHub pada dasarnya adalah **lemari arsip bersama yang mencatat setiap perubahan**: siapa mengubah, apa yang diubah, dan kapan. Setiap dokumen, keputusan, dan usulan tersimpan di satu tempat yang bisa ditelusuri kembali.
 
 ## Apa isi organisasi idtc-id
 
@@ -27,7 +27,7 @@ Organisasi `idtc-id` di GitHub berisi beberapa repositori (disingkat **repo** �
 - **Tiga handbook Pokja** — `pokja1-handbook`, `pokja2-handbook`, `pokja3-handbook` — tempat setiap kelompok kerja mencatat rencana, keputusan, dan progresnya.
 - **Repo keluaran**, seperti `standar-dan-panduan` (dokumen standar Digital Twin) dan `materi-belajar` (kurikulum dan modul pelatihan Pokja 3).
 - **Situs komunitas**, `idtc-id.github.io` — halaman publik yang Anda lihat di browser.
-- **Papan pemantauan capaian**, tempat target dan tugas komunitas dilacak.
+- **Board pemantauan capaian**, tempat target dan tugas komunitas dilacak.
 
 Penting untuk digarisbawahi: **sebagian besar isi repo IDTC adalah dokumen berformat teks (Markdown), bukan kode program.** Membaca dan mengubahnya sama seperti mengetik di aplikasi pengolah kata, hanya saja dilakukan di browser.
 
