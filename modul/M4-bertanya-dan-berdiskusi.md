@@ -22,7 +22,7 @@ Contoh: "Apa beda Jalur A dan Jalur B di kurikulum Pokja 3?" adalah Discussion �
 
 ## Kategori yang tersedia
 
-Setiap handbook Pokja punya beberapa kategori Discussion, misalnya **Pengumuman**, **Tanya jawab**, **Perkenalan**, dan **Ide**. Pilih kategori yang paling sesuai sebelum menulis — ini membantu pengurus menyaring mana yang perlu tanggapan cepat.
+Setiap handbook Pokja punya beberapa kategori Discussion. Di `pokja2-handbook` sudah dipakai nama berbahasa Indonesia (📣 Pengumuman, 👋 Perkenalan, 🙋 Tanya Jawab, dst.); di `pokja1-handbook` dan `pokja3-handbook` masih memakai nama bawaan GitHub (Announcements, General, Q&A, Ideas). Pilih kategori yang paling mendekati isi tulisan Anda — ini membantu pengurus menyaring mana yang perlu tanggapan cepat.
 
 Bila ragu memilih kategori, pilih yang paling mendekati lalu tulis saja — pengurus dapat memindahkan Discussion ke kategori lain kapan pun tanpa kehilangan isi percakapannya.
 
@@ -63,7 +63,7 @@ Anda bisa mengatur seberapa sering menerima notifikasi dari sebuah repo lewat to
 
 ## Latihan
 
-Buka kategori perkenalan di handbook Pokja Anda sendiri, lalu tulis satu Discussion baru untuk memperkenalkan diri.
+Anda sudah memperkenalkan diri di Discussion perkenalan saat M2. Sekarang buka utas perkenalan anggota lain yang baru bergabung di handbook Pokja Anda, lalu balas untuk menyambutnya.
 
 ## Kesalahan umum yang harus diantisipasi
 

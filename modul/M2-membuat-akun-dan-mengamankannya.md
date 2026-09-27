@@ -67,7 +67,7 @@ Bila surel kode tidak kunjung muncul dalam beberapa menit, periksa folder **Spam
 
 ### 3. Bergabung ke organisasi idtc-id
 
-1. Kirim nama pengguna GitHub Anda kepada pengurus Pokja melalui kanal yang sudah disepakati (WhatsApp atau surel Sekretariat). Periksa ulang ejaannya sebelum mengirim.
+1. Buka handbook Pokja Anda (`pokja1-handbook`, `pokja2-handbook`, atau `pokja3-handbook`) → tab **Discussions**. Balas Discussion yang disematkan (pinned) di paling atas, "Selamat bergabung di Pokja...", dengan format perkenalan yang diminta — termasuk kolom **Username GitHub**. Anda bisa membalas Discussion ini meski belum menjadi anggota organisasi. Periksa ulang ejaan username sebelum mengirim.
 2. Tunggu surel undangan dari GitHub dengan judul "has invited you to join the @idtc-id organization".
 
    ![Surel undangan organisasi](gambar/M2-10-surel-undangan.png)
