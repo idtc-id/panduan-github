@@ -49,7 +49,7 @@ Bila surel kode tidak kunjung muncul dalam beberapa menit, periksa folder **Spam
 2. Di menu kiri, klik **Password and authentication**.
 3. Pada bagian **Two-factor authentication**, klik **Enable two-factor authentication**.
 
-   > 🔲 **Tangkapan layar belum tersedia** — *Setelan Password and authentication*. Halaman ini hanya muncul untuk pengguna yang sudah masuk (login); ambil dari akun uji coba, bukan akun anggota sungguhan.
+   ![Setelan Password and authentication](gambar/M2-06-setelan-2fa.png)
 
 4. Pilih metode **aplikasi autentikator** (disarankan) — misalnya Google Authenticator atau Microsoft Authenticator, dipasang lebih dulu di ponsel Anda dari toko aplikasi.
 5. Pindai (scan) kode QR yang tampil di layar memakai aplikasi autentikator tersebut, lalu masukkan enam digit kode yang muncul di aplikasi ke kotak konfirmasi GitHub.
