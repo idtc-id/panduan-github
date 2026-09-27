@@ -3,7 +3,7 @@
 Tutorial dan manual pemanfaatan GitHub sebagai sarana kolaborasi **Indonesia Digital Twin
 Community (IDTC)**, ditulis untuk anggota yang belum pernah memakai GitHub dan tidak
 berlatar teknologi informasi. Tidak perlu kemampuan pemrograman untuk mengikuti seluruh
-modul di sini — semua bisa dikerjakan lewat peramban.
+modul di sini — semua bisa dikerjakan lewat browser.
 
 > Rencana produksi materi ini ada di dokumen internal *Rencana Produksi Tutorial & Manual*
 > (Pokja 3). Repo ini adalah hasil pelaksanaannya.
@@ -17,7 +17,7 @@ sesuai peran Anda di IDTC.
 |---|---|---|
 | **T0** | Pengamat | Membaca dokumen, menelusuri riwayat, menemukan informasi |
 | **T1** | Peserta | Bertanya di Discussions, membuat issue, memberi komentar |
-| **T2** | Kontributor | Mengubah dokumen lewat peramban dan mengajukannya |
+| **T2** | Kontributor | Mengubah dokumen lewat browser dan mengajukannya |
 | **T3** | Pengelola | Menelaah, menggabungkan, memantau papan capaian |
 
 ## Daftar modul
@@ -29,7 +29,7 @@ sesuai peran Anda di IDTC.
 | [M3](modul/M3-menjelajah-repositori-idtc.md) | Menjelajah Repositori IDTC | T0 | 20 menit |
 | [M4](modul/M4-bertanya-dan-berdiskusi.md) | Bertanya dan Berdiskusi | T1 | 20 menit |
 | [M5](modul/M5-mencatat-tugas-dan-usulan.md) | Mencatat Tugas dan Usulan | T1 | 25 menit |
-| [M6](modul/M6-mengubah-dokumen-lewat-peramban.md) | Mengubah Dokumen Lewat Peramban | T2 | 30 menit |
+| [M6](modul/M6-mengubah-dokumen-lewat-browser.md) | Mengubah Dokumen Lewat Browser | T2 | 30 menit |
 | [M7](modul/M7-menelaah-dan-menggabungkan.md) | Menelaah dan Menggabungkan | T3 | 25 menit |
 | [M8](modul/M8-memantau-capaian-lewat-project.md) | Memantau Capaian Lewat Project | T3 | 20 menit |
 | [M9](modul/M9-aturan-main-data-lisensi-keamanan.md) | Aturan Main: Data, Lisensi, Keamanan | Semua | 20 menit |
@@ -59,7 +59,7 @@ dipakai.
 ## Menyumbang perbaikan
 
 Menemukan langkah yang sudah berubah karena tampilan GitHub diperbarui, atau kalimat yang
-membingungkan? Ajukan Pull Request langsung — lihat cara mengedit lewat peramban di M6, atau
+membingungkan? Ajukan Pull Request langsung — lihat cara mengedit lewat browser di M6, atau
 buat Issue bila Anda belum siap mengedit sendiri.
 
 ## Lisensi

@@ -20,7 +20,7 @@ Ini adalah **kebijakan wajib IDTC**, bukan sekadar imbauan — pengurus dapat me
 
 ### 1. Mendaftar akun
 
-1. Buka `github.com/signup` di peramban.
+1. Buka `github.com/signup` di browser.
 2. Isi surel, kata sandi, dan nama pengguna (username) yang diminta. Pilih nama pengguna yang mudah dikenali rekan Pokja Anda — sebaiknya memuat nama asli Anda.
 3. Selesaikan verifikasi yang diminta di layar.
 4. Buka kotak masuk surel Anda, cari surel dari GitHub, dan klik tautan verifikasi di dalamnya.

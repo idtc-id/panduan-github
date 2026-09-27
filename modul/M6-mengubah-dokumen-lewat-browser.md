@@ -1,4 +1,4 @@
-# M6 — Mengubah Dokumen Lewat Peramban
+# M6 — Mengubah Dokumen Lewat Browser
 
 **Tingkat:** T2 — Kontributor &nbsp;·&nbsp; **Durasi:** 30 menit &nbsp;·&nbsp; **Prasyarat:** M5
 
@@ -8,7 +8,7 @@
 
 Setelah modul ini, Anda dapat:
 
-- Mengubah satu berkas Markdown lewat peramban.
+- Mengubah satu berkas Markdown lewat browser.
 - Mengajukan perubahan tersebut sebagai Pull Request.
 - Menjelaskan mengapa perubahan Anda tidak langsung masuk ke dokumen yang dilihat semua orang.
 
@@ -18,7 +18,7 @@ Setiap repo di `idtc-id` punya satu versi yang dianggap resmi, disebut **branch 
 
 Aturan ini terasa merepotkan pada mulanya, tetapi tujuannya melindungi komunitas dari dua hal: kesalahan ketik yang lolos tanpa ada yang memeriksa, dan perubahan sepihak pada dokumen yang sudah disepakati bersama. Pikirkan `main` sebagai lemari arsip resmi — Anda boleh mengusulkan revisi, tetapi revisi itu perlu disetujui sebelum masuk ke lemari.
 
-Ketika Anda mengedit lewat peramban, GitHub secara otomatis membuatkan Anda **salinan kerja** (disebut branch) terpisah dari `main`. Perubahan Anda ditulis di salinan itu dulu — `main` sama sekali belum tersentuh sampai Pull Request Anda disetujui dan digabungkan.
+Ketika Anda mengedit lewat browser, GitHub secara otomatis membuatkan Anda **salinan kerja** (disebut branch) terpisah dari `main`. Perubahan Anda ditulis di salinan itu dulu — `main` sama sekali belum tersentuh sampai Pull Request Anda disetujui dan digabungkan.
 
 ## Langkah
 
