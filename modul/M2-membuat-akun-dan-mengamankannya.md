@@ -52,12 +52,18 @@ Bila surel kode tidak kunjung muncul dalam beberapa menit, periksa folder **Spam
    ![Setelan Password and authentication](gambar/M2-06-setelan-2fa.png)
 
 4. Pilih metode **aplikasi autentikator** (disarankan) — misalnya Google Authenticator atau Microsoft Authenticator, dipasang lebih dulu di ponsel Anda dari toko aplikasi.
-5. Pindai (scan) kode QR yang tampil di layar memakai aplikasi autentikator tersebut, lalu masukkan enam digit kode yang muncul di aplikasi ke kotak konfirmasi GitHub.
-6. GitHub akan menampilkan **kode cadangan (recovery codes)** — sederet kode sekali pakai.
+5. Pindai (scan) kode QR yang tampil di layar memakai aplikasi autentikator tersebut, lalu masukkan enam digit kode yang muncul di aplikasi ke kotak konfirmasi GitHub, lalu klik **Continue**.
 
-   > 🔲 **Tangkapan layar belum tersedia** — *Layar kode cadangan*. **Ambil dari akun uji coba, lalu langsung buang kode itu** — kode cadangan asli tidak boleh pernah difoto untuk dipublikasikan, sekalipun dari akun uji coba yang tidak dipakai lagi.
+   ![Layar pindai kode QR untuk 2FA](gambar/M2-07-scan-qr-2fa.png)
+
+6. GitHub akan menampilkan **kode cadangan (recovery codes)** — sederet kode sekali pakai. Klik **Download** untuk menyimpannya, lalu klik **I have saved my recovery codes**.
+
+   ![Layar kode cadangan](gambar/M2-08-kode-cadangan.png)
 
 7. **Simpan kode cadangan ini di tempat aman di luar ponsel Anda** — misalnya dicetak atau disimpan di pengelola kata sandi. Kode ini satu-satunya jalan masuk bila ponsel Anda hilang atau berganti.
+8. GitHub menampilkan konfirmasi bahwa autentikasi dua faktor sudah aktif pada akun Anda.
+
+   ![Konfirmasi 2FA berhasil diaktifkan](gambar/M2-09-2fa-berhasil.png)
 
 ### 3. Bergabung ke organisasi idtc-id
 
