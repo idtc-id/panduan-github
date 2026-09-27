@@ -36,26 +36,26 @@ Ketika Anda mengedit lewat browser, GitHub secara otomatis membuatkan Anda **sal
 1. Ubah kalimat yang dituju. Ingat aturan Markdown dasar: `**tebal**`, `*miring*`, `- ` untuk daftar bertitik.
 2. Sebelum menyimpan, klik tab **Preview** di atas kotak teks untuk melihat bagaimana hasilnya akan tampil setelah diformat.
 
-   > 🔲 **Tangkapan layar belum tersedia** — *Tab Preview*. Bagian dari mode edit yang hanya muncul untuk pengguna yang sudah masuk (login); ambil bersamaan dengan tangkapan layar M6-01.
+   ![Tab Edit dan Preview saat mengubah berkas](gambar/M6-02-tab-preview.png)
 
 3. Bila formatnya berantakan (misalnya tanda bintang muncul apa adanya), kembali ke tab **Edit** dan periksa kembali sintaks Markdown Anda.
 
 ### 3. Menyimpan sebagai salinan kerja
 
-1. Gulir ke bawah sampai kotak **Commit changes**.
-2. Isi kotak judul singkat yang menjelaskan perubahan, misalnya "Perbaiki tautan dokumen kebijakan data".
-3. Di bawahnya ada dua pilihan: **Commit directly to the `main` branch** dan **Create a new branch for this commit and start a pull request**. Karena `main` dilindungi, pilihan pertama biasanya tidak akan berhasil disimpan — **selalu pilih pilihan kedua.**
+1. Klik tombol **Commit changes...** di kanan atas halaman edit. Sebuah kotak dialog berjudul **Propose changes** akan terbuka.
+2. Isi **Commit message** dengan judul singkat yang menjelaskan perubahan, misalnya "Perbaiki tautan dokumen kebijakan data".
+3. Dialog ini akan memberi tahu **"You can't commit to main because it is a protected branch"**, dan opsi **Create a new branch for this commit and start a pull request** sudah otomatis terpilih — ini satu-satunya pilihan yang tersedia di repo IDTC.
 
-   > 🔲 **Tangkapan layar belum tersedia** — *Dialog Commit changes beserta pilihan membuat salinan kerja*. Hanya muncul untuk pengguna yang sudah masuk (login); ini tangkapan layar terpenting di seluruh manual — pastikan kedua pilihan (commit langsung vs buat branch baru) terlihat jelas.
+   ![Dialog Propose changes beserta pilihan membuat salinan kerja](gambar/M6-03-dialog-commit-changes.png)
 
-4. GitHub akan mengisikan nama branch secara otomatis. Anda boleh membiarkannya.
+4. GitHub akan mengisikan nama branch secara otomatis (misalnya `nama-pengguna-patch-1`). Anda boleh membiarkannya.
 5. Klik **Propose changes**.
 
 ### 4. Mengajukan Pull Request
 
-1. Anda akan diarahkan ke formulir Pull Request. Isi **judul** yang jelas (biasanya sudah terisi otomatis dari judul commit Anda) dan **keterangan** singkat tentang *mengapa* perubahan ini perlu, bukan hanya *apa* yang berubah.
+1. Anda akan diarahkan ke halaman **Open a pull request**. Judul biasanya sudah terisi otomatis dari judul commit Anda — periksa lagi apakah sudah jelas. Isi kotak **Add a description** dengan keterangan singkat tentang *mengapa* perubahan ini perlu, bukan hanya *apa* yang berubah. Bila repo menyediakan templat deskripsi, ikuti pertanyaannya.
 
-   > 🔲 **Tangkapan layar belum tersedia** — *Formulir Pull Request*. Formulir pengisian judul dan keterangan ini hanya muncul untuk pengguna yang sudah masuk (login); ambil dari akun mana pun yang sudah menjadi anggota organisasi.
+   ![Formulir Open a pull request](gambar/M6-04-formulir-pull-request.png)
 
 2. Bila perubahan ini menuntaskan sebuah Issue yang sudah ada, tulis `Closes #<nomor issue>` di kotak keterangan — Issue tersebut akan otomatis tertutup begitu PR digabungkan.
 3. Klik **Create pull request**.
@@ -74,7 +74,7 @@ Di repo `latihan-github`, perbaiki satu kalimat pada berkas latihan yang tersedi
 
 ## Kesalahan umum yang harus diantisipasi
 
-- **Peserta memilih "Commit directly to the `main` branch"** lalu bingung karena perubahan ditolak atau tidak tersimpan seperti yang diharapkan. Ingatkan sebelum langkah ini bahwa pilihan kedua ("Create a new branch...") adalah satu-satunya jalan yang akan berhasil di repo IDTC.
+- **Peserta mengira sudah selesai setelah menekan "Propose changes"**, padahal itu baru membuat branch dan belum mengajukan Pull Request. Tekankan bahwa masih ada satu langkah lagi: klik **Create pull request** di halaman berikutnya.
 - **Judul PR dibiarkan kosong atau berisi teks bawaan** seperti "Update namafile.md". Minta peserta menuliskan ulang dengan kalimat yang menjelaskan perubahan.
 - **Lupa menekan Preview**, sehingga tanda Markdown seperti `**` atau `#` muncul apa adanya di dokumen setelah digabungkan. Jadikan mengecek Preview sebagai kebiasaan tetap sebelum menyimpan.
 
