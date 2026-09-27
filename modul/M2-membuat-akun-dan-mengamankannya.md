@@ -14,7 +14,7 @@ Setelah modul ini, Anda dapat:
 
 IDTC mewajibkan **autentikasi dua faktor** (kode tambahan selain kata sandi) bagi setiap anggota organisasi. Ini bukan formalitas: banyak anggota IDTC berasal dari kementerian dan BUMN yang membawa data pekerjaan yang sensitif. Bila kata sandi seorang anggota bocor, autentikasi dua faktor adalah lapisan terakhir yang mencegah orang lain masuk ke akunnya dan mengubah dokumen komunitas atas namanya.
 
-Ini adalah **kebijakan wajib IDTC**, bukan sekadar imbauan — pengurus dapat meninjau ulang keanggotaan akun yang tidak mengaktifkannya. Lakukan langkah ini sebelum meminta undangan bergabung ke organisasi, supaya prosesnya tidak perlu diulang.
+Ini adalah **kebijakan rekomendasi Github**,  Lakukan langkah ini sebelum meminta undangan bergabung ke organisasi, supaya prosesnya tidak perlu diulang.
 
 ## Langkah
 
