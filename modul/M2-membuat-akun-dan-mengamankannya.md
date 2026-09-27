@@ -25,7 +25,7 @@ Ini adalah **kebijakan wajib IDTC**, bukan sekadar imbauan — pengurus dapat me
 3. Selesaikan verifikasi yang diminta di layar.
 4. Buka kotak masuk surel Anda, cari surel dari GitHub, dan klik tautan verifikasi di dalamnya.
 
-   ![Halaman pendaftaran GitHub](gambar/M2-01-halaman-pendaftaran.png)
+   > 🔲 **Tangkapan layar belum tersedia** — *Halaman pendaftaran GitHub*. GitHub memblokir pengambilan otomatis pada halaman ini; ambil manual lewat browser biasa (tidak perlu login).
 
 Sesudah langkah ini, Anda sudah bisa masuk (login) ke `github.com` dengan surel dan kata sandi tadi.
 
@@ -37,13 +37,13 @@ Bila surel verifikasi tidak kunjung muncul dalam beberapa menit, periksa folder 
 2. Di menu kiri, klik **Password and authentication**.
 3. Pada bagian **Two-factor authentication**, klik **Enable two-factor authentication**.
 
-   ![Setelan Password and authentication](gambar/M2-02-setelan-2fa.png)
+   > 🔲 **Tangkapan layar belum tersedia** — *Setelan Password and authentication*. Halaman ini hanya muncul untuk pengguna yang sudah masuk (login); ambil dari akun uji coba, bukan akun anggota sungguhan.
 
 4. Pilih metode **aplikasi autentikator** (disarankan) — misalnya Google Authenticator atau Microsoft Authenticator, dipasang lebih dulu di ponsel Anda dari toko aplikasi.
 5. Pindai (scan) kode QR yang tampil di layar memakai aplikasi autentikator tersebut, lalu masukkan enam digit kode yang muncul di aplikasi ke kotak konfirmasi GitHub.
 6. GitHub akan menampilkan **kode cadangan (recovery codes)** — sederet kode sekali pakai.
 
-   ![Layar kode cadangan](gambar/M2-03-kode-cadangan.png)
+   > 🔲 **Tangkapan layar belum tersedia** — *Layar kode cadangan*. **Ambil dari akun uji coba, lalu langsung buang kode itu** — kode cadangan asli tidak boleh pernah difoto untuk dipublikasikan, sekalipun dari akun uji coba yang tidak dipakai lagi.
 
 7. **Simpan kode cadangan ini di tempat aman di luar ponsel Anda** — misalnya dicetak atau disimpan di pengelola kata sandi. Kode ini satu-satunya jalan masuk bila ponsel Anda hilang atau berganti.
 
@@ -52,7 +52,7 @@ Bila surel verifikasi tidak kunjung muncul dalam beberapa menit, periksa folder 
 1. Kirim nama pengguna GitHub Anda kepada pengurus Pokja melalui kanal yang sudah disepakati (WhatsApp atau surel Sekretariat). Periksa ulang ejaannya sebelum mengirim.
 2. Tunggu surel undangan dari GitHub dengan judul mengenai organisasi `idtc-id`.
 
-   ![Surel undangan organisasi](gambar/M2-04-surel-undangan.png)
+   > 🔲 **Tangkapan layar belum tersedia** — *Surel undangan organisasi*. Perlu diambil dari kotak masuk surel anggota yang benar-benar diundang; samarkan alamat surel penerima sebelum digunakan di manual ini.
 
 3. Buka surel tersebut dan klik **View invitation**, lalu klik **Join idtc-id**.
 4. Setelah diterima, buka `github.com/idtc-id` — nama Anda kini terdaftar sebagai anggota organisasi.

@@ -39,7 +39,7 @@ Modul ini ditujukan untuk pengurus, koordinator Pokja, dan lead pilot yang diber
 
 1. Setelah selesai membaca dan mengomentari, klik tombol **Review changes** di kanan atas.
 
-   ![Menu Review changes](gambar/M7-03-menu-review-changes.png)
+   > 🔲 **Tangkapan layar belum tersedia** — *Menu Review changes*. Tombol ini hanya tampil untuk penelaah yang sudah masuk (login); pengunjung anonim melihat ajakan "Sign up" sebagai gantinya. Ambil dari akun anggota organisasi.
 
 2. Pilih salah satu:
    - **Approve** — perubahan sudah baik dan siap digabungkan.
@@ -53,7 +53,7 @@ Modul ini ditujukan untuk pengurus, koordinator Pokja, dan lead pilot yang diber
 1. Setelah syarat persetujuan terpenuhi dan seluruh percakapan ditandai selesai, tombol gabung di bagian bawah PR akan aktif.
 2. Klik tombol **Squash and merge**.
 
-   ![Tombol Squash and merge](gambar/M7-04-tombol-squash-and-merge.png)
+   > 🔲 **Tangkapan layar belum tersedia** — *Tombol Squash and merge*. Tombol gabung hanya tampil untuk anggota dengan akses tulis yang sudah masuk (login); ambil dari akun yang berperan sebagai penelaah/pengelola repo.
 
 3. IDTC memilih **Squash and merge** (bukan pilihan gabung lainnya) karena cara ini merangkum seluruh commit kecil dalam satu PR menjadi satu catatan perubahan yang rapi di riwayat `main` — riwayat proyek jadi lebih mudah dibaca ke depannya, alih-alih dipenuhi puluhan commit kecil seperti "perbaikan typo" atau "coba lagi".
 4. Konfirmasi judul penggabungan bila diminta, lalu klik **Confirm squash and merge**.

@@ -39,7 +39,7 @@ Bila ragu memilih kategori, pilih yang paling mendekati lalu tulis saja — peng
 4. Isi **Title** dengan kalimat singkat yang menjelaskan isi, misalnya "Perkenalan — Budi, Dinas PUPR Kota X", bukan sekadar "Halo".
 5. Isi kotak isi (body) dengan penjelasan lebih lengkap. Klik tab **Preview** untuk melihat bagaimana format Markdown Anda akan tampil sebelum dikirim.
 
-   ![Formulir New discussion](gambar/M4-02-formulir-new-discussion.png)
+   > 🔲 **Tangkapan layar belum tersedia** — *Formulir New discussion*. Formulir ini hanya muncul untuk pengguna yang sudah masuk (login); ambil dari akun mana pun yang sudah menjadi anggota organisasi.
 
 6. Klik **Start discussion**.
 

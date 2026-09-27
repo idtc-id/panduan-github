@@ -35,7 +35,7 @@ Bila jenis permintaan Anda tidak cocok dengan template mana pun, itu tidak masal
 
 3. Pilih salah satu template yang muncul, sesuai jenis permintaan Anda. Bila tidak ada template yang cocok, pilih **Open a blank issue**.
 
-   ![Pilihan template Issue](gambar/M5-02-pilihan-template.png)
+   > 🔲 **Tangkapan layar belum tersedia** — *Pilihan template Issue*. Halaman pemilihan template hanya muncul untuk pengguna yang sudah masuk (login); ambil dari akun mana pun yang sudah menjadi anggota organisasi.
 
 4. Isi **Title** dengan kalimat yang menyebutkan objek dan tindakan secara spesifik, misalnya "Perbarui tautan dokumen kebijakan data yang rusak di README", bukan sekadar "Masalah".
 5. Lengkapi kotak isi (body) sesuai pertanyaan pada template.

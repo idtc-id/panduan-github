@@ -46,14 +46,13 @@ Setiap kartu memiliki lima kolom informasi (field):
 
 1. Pada tampilan mana pun, klik kotak **Filter** di bagian atas papan.
 2. Ketik `Pokja: "Pokja 2"` (ganti sesuai Pokja Anda), atau pilih dari daftar yang muncul otomatis.
-
-   ![Panel detail satu kartu](gambar/M8-03-panel-detail-kartu.png)
-
 3. Papan akan langsung menampilkan hanya kartu milik Pokja tersebut.
 
 ### 3. Memperbarui status kartu
 
 1. Klik salah satu kartu untuk membuka panel detailnya.
+
+   > 🔲 **Tangkapan layar belum tersedia** — *Panel detail satu kartu*. Panel ini hanya terbuka lewat klik interaktif pada papan (bukan tautan langsung); ambil saat memperagakan langkah ini secara langsung.
 2. Ubah field **Status** ke nilai yang sesuai keadaan terkini, misalnya dari "Berjalan" ke "Tinjauan".
 3. Bila pekerjaan pada kartu tersebut benar-benar sudah tuntas, jangan hanya mengubah Status di papan — buka Issue aslinya (klik judul kartu) dan **tutup Issue tersebut** (lihat langkah menutup Issue di M5). Menutup Issue akan otomatis memindahkan kartunya ke Status "Selesai" di papan.
 

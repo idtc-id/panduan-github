@@ -27,7 +27,7 @@ Ketika Anda mengedit lewat browser, GitHub secara otomatis membuatkan Anda **sal
 1. Buka berkas Markdown (`.md`) yang ingin Anda ubah.
 2. Klik ikon pensil (✏️) di kanan atas tampilan berkas, bertuliskan **Edit this file**.
 
-   ![Ikon pensil](gambar/M6-01-ikon-pensil.png)
+   > 🔲 **Tangkapan layar belum tersedia** — *Ikon pensil*. Ikon ini hanya muncul untuk pengguna yang sudah masuk (login) dengan akses tulis; ambil dari akun mana pun yang sudah menjadi anggota organisasi.
 
 3. Tampilan berkas berubah menjadi kotak teks yang bisa Anda ketik langsung, mirip catatan di aplikasi pengolah kata sederhana.
 
@@ -36,7 +36,7 @@ Ketika Anda mengedit lewat browser, GitHub secara otomatis membuatkan Anda **sal
 1. Ubah kalimat yang dituju. Ingat aturan Markdown dasar: `**tebal**`, `*miring*`, `- ` untuk daftar bertitik.
 2. Sebelum menyimpan, klik tab **Preview** di atas kotak teks untuk melihat bagaimana hasilnya akan tampil setelah diformat.
 
-   ![Tab Preview](gambar/M6-02-tab-preview.png)
+   > 🔲 **Tangkapan layar belum tersedia** — *Tab Preview*. Bagian dari mode edit yang hanya muncul untuk pengguna yang sudah masuk (login); ambil bersamaan dengan tangkapan layar M6-01.
 
 3. Bila formatnya berantakan (misalnya tanda bintang muncul apa adanya), kembali ke tab **Edit** dan periksa kembali sintaks Markdown Anda.
 
@@ -46,7 +46,7 @@ Ketika Anda mengedit lewat browser, GitHub secara otomatis membuatkan Anda **sal
 2. Isi kotak judul singkat yang menjelaskan perubahan, misalnya "Perbaiki tautan dokumen kebijakan data".
 3. Di bawahnya ada dua pilihan: **Commit directly to the `main` branch** dan **Create a new branch for this commit and start a pull request**. Karena `main` dilindungi, pilihan pertama biasanya tidak akan berhasil disimpan — **selalu pilih pilihan kedua.**
 
-   ![Dialog Commit changes beserta pilihan membuat salinan kerja](gambar/M6-03-dialog-commit-changes.png)
+   > 🔲 **Tangkapan layar belum tersedia** — *Dialog Commit changes beserta pilihan membuat salinan kerja*. Hanya muncul untuk pengguna yang sudah masuk (login); ini tangkapan layar terpenting di seluruh manual — pastikan kedua pilihan (commit langsung vs buat branch baru) terlihat jelas.
 
 4. GitHub akan mengisikan nama branch secara otomatis. Anda boleh membiarkannya.
 5. Klik **Propose changes**.
@@ -55,7 +55,7 @@ Ketika Anda mengedit lewat browser, GitHub secara otomatis membuatkan Anda **sal
 
 1. Anda akan diarahkan ke formulir Pull Request. Isi **judul** yang jelas (biasanya sudah terisi otomatis dari judul commit Anda) dan **keterangan** singkat tentang *mengapa* perubahan ini perlu, bukan hanya *apa* yang berubah.
 
-   ![Formulir Pull Request](gambar/M6-04-formulir-pull-request.png)
+   > 🔲 **Tangkapan layar belum tersedia** — *Formulir Pull Request*. Formulir pengisian judul dan keterangan ini hanya muncul untuk pengguna yang sudah masuk (login); ambil dari akun mana pun yang sudah menjadi anggota organisasi.
 
 2. Bila perubahan ini menuntaskan sebuah Issue yang sudah ada, tulis `Closes #<nomor issue>` di kotak keterangan — Issue tersebut akan otomatis tertutup begitu PR digabungkan.
 3. Klik **Create pull request**.
