@@ -12,7 +12,7 @@ Setelah modul ini, Anda dapat:
 
 ## Kenapa dua faktor diwajibkan
 
-IDTC mewajibkan **autentikasi dua faktor** (kode tambahan selain kata sandi) bagi setiap anggota organisasi. Ini bukan formalitas: banyak anggota IDTC berasal dari kementerian dan BUMN yang membawa data pekerjaan yang sensitif. Bila kata sandi seorang anggota bocor, autentikasi dua faktor adalah lapisan terakhir yang mencegah orang lain masuk ke akunnya dan mengubah dokumen komunitas atas namanya.
+IDTC mewajibkan **autentikasi dua faktor** (kode tambahan selain kata sandi) bagi setiap anggota organisasi. Ini bukan formalitas: IDTC memiliki anggota dengan berbagai latar belakang dan sangat mungkin memiliki informasi yang sensitif. Bila kata sandi seorang anggota bocor, autentikasi dua faktor adalah lapisan terakhir yang mencegah orang lain masuk ke akunnya dan mengubah dokumen komunitas atas namanya.
 
 Ini adalah **kebijakan rekomendasi Github**,  Lakukan langkah ini sebelum meminta undangan bergabung ke organisasi, supaya prosesnya tidak perlu diulang.
 
