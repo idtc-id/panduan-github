@@ -26,10 +26,10 @@ Organisasi `idtc-id` di GitHub berisi beberapa repositori (disingkat **repo** �
 
 - **Tiga handbook Pokja** — `pokja1-handbook`, `pokja2-handbook`, `pokja3-handbook` — tempat setiap kelompok kerja mencatat rencana, keputusan, dan progresnya.
 - **Repo keluaran**, seperti `standar-dan-panduan` (dokumen standar Digital Twin) dan `materi-belajar` (kurikulum dan modul pelatihan Pokja 3).
-- **Situs komunitas**, `idtc-id.github.io` — halaman publik yang Anda lihat di peramban.
+- **Situs komunitas**, `idtc-id.github.io` — halaman publik yang Anda lihat di browser.
 - **Papan pemantauan capaian**, tempat target dan tugas komunitas dilacak.
 
-Penting untuk digarisbawahi: **sebagian besar isi repo IDTC adalah dokumen berformat teks (Markdown), bukan kode program.** Membaca dan mengubahnya sama seperti mengetik di aplikasi pengolah kata, hanya saja dilakukan di peramban.
+Penting untuk digarisbawahi: **sebagian besar isi repo IDTC adalah dokumen berformat teks (Markdown), bukan kode program.** Membaca dan mengubahnya sama seperti mengetik di aplikasi pengolah kata, hanya saja dilakukan di browser.
 
 ## Apa yang bisa dilakukan tanpa menulis kode
 
@@ -38,13 +38,13 @@ Tanpa kemampuan pemrograman sama sekali, seorang anggota IDTC sudah bisa:
 - Membaca dokumen dan menelusuri riwayat perubahannya.
 - Bertanya atau berdiskusi lewat fitur **Discussions**.
 - Mencatat usulan atau tugas lewat fitur **Issues**.
-- Memperbaiki kalimat atau menambah data pada dokumen langsung lewat peramban.
+- Memperbaiki kalimat atau menambah data pada dokumen langsung lewat browser.
 
 Semua itu akan dipelajari pada modul-modul berikutnya. Modul ini baru mengenalkan tempatnya.
 
 ## Langkah (praktik)
 
-1. Buka peramban dan kunjungi `github.com/idtc-id`.
+1. Buka browser dan kunjungi `github.com/idtc-id`.
 
    ![Halaman organisasi idtc-id](gambar/M1-01-halaman-organisasi.png)
 
@@ -65,9 +65,9 @@ Buka `github.com/idtc-id`, temukan handbook Pokja Anda sendiri, lalu buka satu d
 
 ## Kesalahan umum yang harus diantisipasi
 
-- **Peserta mengira harus memasang aplikasi terlebih dahulu.** Tegaskan sejak awal: seluruh modul ini bisa dikerjakan hanya lewat peramban, tanpa memasang apa pun di komputer.
+- **Peserta mengira harus memasang aplikasi terlebih dahulu.** Tegaskan sejak awal: seluruh modul ini bisa dikerjakan hanya lewat browser, tanpa memasang apa pun di komputer.
 - **Peserta bingung membedakan "organisasi" dan "repo".** Jelaskan dengan analogi: organisasi `idtc-id` adalah gedung komunitas, dan setiap repo adalah satu ruangan di dalamnya dengan fungsi berbeda.
 
 ## Ringkasan
 
-IDTC memakai GitHub karena mencatat riwayat perubahan secara otomatis — sesuatu yang tidak bisa diberikan WhatsApp atau surel. Sebagian besar pekerjaan di sana berupa dokumen, bukan kode, dan bisa dikerjakan penuh lewat peramban. Organisasi `idtc-id` menampung handbook tiap Pokja, repo keluaran, situs komunitas, dan papan pemantauan capaian. Modul berikutnya (M2) akan memandu Anda membuat akun dan bergabung ke organisasi ini.
+IDTC memakai GitHub karena mencatat riwayat perubahan secara otomatis — sesuatu yang tidak bisa diberikan WhatsApp atau surel. Sebagian besar pekerjaan di sana berupa dokumen, bukan kode, dan bisa dikerjakan penuh lewat browser. Organisasi `idtc-id` menampung handbook tiap Pokja, repo keluaran, situs komunitas, dan papan pemantauan capaian. Modul berikutnya (M2) akan memandu Anda membuat akun dan bergabung ke organisasi ini.

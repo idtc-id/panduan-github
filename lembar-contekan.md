@@ -17,7 +17,7 @@ Satu halaman, sepuluh tindakan yang paling sering dipakai. Rujuk modul lengkap d
 
 ## Ingat selalu
 
-- Semua langkah di atas bisa dikerjakan **hanya lewat peramban**, tanpa memasang aplikasi apa pun.
+- Semua langkah di atas bisa dikerjakan **hanya lewat browser**, tanpa memasang aplikasi apa pun.
 - **Jangan pernah** mengunggah data pribadi, kredensial, atau data mitra tanpa izin tertulis — lihat M9.
 - Terlanjur mengunggah data sensitif? **Segera hubungi pengurus**, jangan hanya menghapus berkasnya.
 - Butuh bantuan? Tulis di kategori **Tanya jawab** pada handbook Pokja Anda.
