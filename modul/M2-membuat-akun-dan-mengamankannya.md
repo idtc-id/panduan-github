@@ -22,14 +22,26 @@ Ini adalah **kebijakan rekomendasi Github**,  Lakukan langkah ini sebelum memint
 
 1. Buka `github.com/signup` di browser.
 2. Isi surel, kata sandi, dan nama pengguna (username) yang diminta. Pilih nama pengguna yang mudah dikenali rekan Pokja Anda — sebaiknya memuat nama asli Anda.
-3. Selesaikan verifikasi yang diminta di layar.
-4. Buka kotak masuk surel Anda, cari surel dari GitHub, dan klik tautan verifikasi di dalamnya.
 
-   > 🔲 **Tangkapan layar belum tersedia** — *Halaman pendaftaran GitHub*. GitHub memblokir pengambilan otomatis pada halaman ini; ambil manual lewat browser biasa (tidak perlu login).
+   ![Formulir pendaftaran GitHub](gambar/M2-01-formulir-pendaftaran.png)
 
-Sesudah langkah ini, Anda sudah bisa masuk (login) ke `github.com` dengan surel dan kata sandi tadi.
+3. Klik **Create account**. GitHub akan meminta Anda memasukkan kode konfirmasi yang dikirim ke surel Anda.
 
-Bila surel verifikasi tidak kunjung muncul dalam beberapa menit, periksa folder **Spam** atau **Promosi** pada kotak masuk Anda sebelum mencoba mendaftar ulang — mendaftar dua kali dengan surel yang sama akan ditolak oleh sistem.
+   ![Layar konfirmasi kode](gambar/M2-02-konfirmasi-kode.png)
+
+4. Buka kotak masuk surel Anda, cari surel dari GitHub berjudul "Your GitHub launch code", lalu salin kode delapan digit di dalamnya.
+
+   ![Kode di surel GitHub](gambar/M2-03-kode-di-surel.png)
+
+5. Masukkan kode tersebut pada layar konfirmasi. GitHub akan menampilkan pesan akun berhasil dibuat dan meminta Anda masuk (sign in) memakai surel/username dan kata sandi yang tadi didaftarkan.
+
+   ![Akun berhasil dibuat](gambar/M2-04-akun-berhasil-dibuat.png)
+
+6. Setelah masuk, Anda akan melihat halaman utama (Dashboard) GitHub — tandanya akun Anda sudah aktif dan siap dipakai.
+
+   ![Berhasil masuk ke Dashboard](gambar/M2-05-berhasil-masuk.png)
+
+Bila surel kode tidak kunjung muncul dalam beberapa menit, periksa folder **Spam** atau **Promosi** pada kotak masuk Anda sebelum mencoba mendaftar ulang — mendaftar dua kali dengan surel yang sama akan ditolak oleh sistem.
 
 ### 2. Mengaktifkan autentikasi dua faktor
 
