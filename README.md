@@ -1,9 +1,7 @@
 # Panduan GitHub IDTC
 
 Tutorial dan manual pemanfaatan GitHub sebagai sarana kolaborasi **Indonesia Digital Twin
-Community (IDTC)**, ditulis untuk anggota yang belum pernah memakai GitHub dan tidak
-berlatar teknologi informasi. Tidak perlu kemampuan pemrograman untuk mengikuti seluruh
-modul di sini — semua bisa dikerjakan lewat browser.
+Community (IDTC)**, ditulis untuk semua anggota sebagai pengenalan mengenai GitHub terutama untuk yang bukan developer. Tidak perlu kemampuan pemrograman untuk mengikuti seluruh modul di sini — semua bisa dikerjakan lewat browser.
 
 > Rencana produksi materi ini ada di dokumen internal *Rencana Produksi Tutorial & Manual*
 > (Pokja 3). Repo ini adalah hasil pelaksanaannya.
