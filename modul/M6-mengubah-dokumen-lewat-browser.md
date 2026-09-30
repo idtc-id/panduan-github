@@ -80,4 +80,4 @@ Di repo `latihan-github`, perbaiki satu kalimat pada berkas latihan yang tersedi
 
 ## Ringkasan
 
-Mengubah dokumen di GitHub selalu melalui tiga tahap: edit lewat ikon pensil, simpan sebagai salinan kerja (branch) lewat "Create a new branch and start a pull request", lalu ajukan sebagai Pull Request yang menunggu telaah. Alur ini memang lebih panjang daripada mengetik langsung, tetapi itulah yang membuat `main` tetap terjaga. Modul M7 melanjutkan dari sudut pandang penelaah: bagaimana memeriksa dan menggabungkan Pull Request seperti ini.
+Mengubah dokumen di GitHub selalu melalui tiga tahap: edit lewat ikon pensil, simpan sebagai salinan kerja (branch) lewat "Create a new branch and start a pull request", lalu ajukan sebagai Pull Request yang menunggu telaah. Alur ini memang lebih panjang daripada mengetik langsung, tetapi itulah yang membuat `main` atau file utama tetap terjaga. Modul M7 melanjutkan dari sudut pandang penelaah: bagaimana memeriksa dan menggabungkan Pull Request seperti ini.
